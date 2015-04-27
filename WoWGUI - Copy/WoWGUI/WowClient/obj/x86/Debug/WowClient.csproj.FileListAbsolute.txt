@@ -1,0 +1,44 @@
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowClient\bin\Debug\WowClient.exe.config
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowClient\bin\Debug\WowClient.exe
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowClient\bin\Debug\WowClient.pdb
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowClient\bin\Debug\Common.dll
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowClient\bin\Debug\WoWLogin.exe
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowClient\bin\Debug\Common.pdb
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowClient\bin\Debug\WoWLogin.pdb
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowClient\bin\Debug\en-us\WoWLogin.resources.dll
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowClient\obj\x86\Debug\WowClient.exe
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowClient\obj\x86\Debug\WowClient.pdb
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowClient\bin\Debug\WowClient.exe.config
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowClient\bin\Debug\WowClient.exe
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowClient\bin\Debug\WowClient.pdb
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowClient\bin\Debug\en-AU\WowClient.resources.dll
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowClient\bin\Debug\es-MX\WowClient.resources.dll
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowClient\bin\Debug\en-US\WowClient.resources.dll
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowClient\bin\Debug\Common.dll
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowClient\bin\Debug\Common.pdb
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowClient\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowClient\obj\x86\Debug\GUI\FormAdminOptions.baml
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowClient\obj\x86\Debug\GUI\FormCreateAccount.baml
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowClient\obj\x86\Debug\GUI\FormCharacterSelect.baml
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowClient\obj\x86\Debug\GUI\FormCharCreation.baml
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowClient\obj\x86\Debug\GUI\FormLogin.baml
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowClient\obj\x86\Debug\GUI\FormAdminOptions.g.cs
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowClient\obj\x86\Debug\GUI\FormCreateAccount.g.cs
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowClient\obj\x86\Debug\GUI\FormCharacterSelect.g.cs
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowClient\obj\x86\Debug\GUI\FormCharCreation.g.cs
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowClient\obj\x86\Debug\GUI\FormLogin.g.cs
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowClient\obj\x86\Debug\WowClient_MarkupCompile.cache
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowClient\obj\x86\Debug\WowClient.g.resources
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowClient\obj\x86\Debug\WowClient.LocalizationResources.resources
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowClient\obj\x86\Debug\WowClient.Properties.Resources.resources
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowClient\obj\x86\Debug\WowClient.LocalizationResources.en-AU.resources
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowClient\obj\x86\Debug\WowClient.LocalizationResources.es-MX.resources
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowClient\obj\x86\Debug\WowClient.LocalizationResources.en-US.resources
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowClient\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowClient\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowClient\obj\x86\Debug\en-AU\WowClient.resources.dll
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowClient\obj\x86\Debug\es-MX\WowClient.resources.dll
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowClient\obj\x86\Debug\en-US\WowClient.resources.dll
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowClient\obj\x86\Debug\WowClient.exe
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowClient\obj\x86\Debug\WowClient.pdb

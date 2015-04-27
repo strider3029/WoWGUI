@@ -1,0 +1,19 @@
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowServiceHost\bin\Debug\WowServiceHost.exe
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowServiceHost\bin\Debug\WowLoginServiceLib.dll
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowServiceHost\bin\Debug\Common.dll
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowServiceHost\bin\Debug\WowLoginServiceLib.pdb
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowServiceHost\bin\Debug\Common.pdb
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowServiceHost\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowServiceHost\obj\x86\Debug\WowServiceHost.exe
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowServiceHost\obj\x86\Debug\WowServiceHost.pdb
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowServiceHost\bin\Debug\WowServiceHost.exe
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowServiceHost\bin\Debug\WowServiceHost.pdb
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowServiceHost\bin\Debug\WowDataLayer.dll
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowServiceHost\bin\Debug\WowLoginServiceLib.dll
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowServiceHost\bin\Debug\Common.dll
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowServiceHost\bin\Debug\WowDataLayer.pdb
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowServiceHost\bin\Debug\WowLoginServiceLib.pdb
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowServiceHost\bin\Debug\Common.pdb
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowServiceHost\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowServiceHost\obj\x86\Debug\WowServiceHost.exe
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowServiceHost\obj\x86\Debug\WowServiceHost.pdb

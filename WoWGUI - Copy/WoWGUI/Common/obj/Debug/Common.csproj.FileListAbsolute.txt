@@ -1,0 +1,10 @@
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\Common\bin\Debug\Common.dll
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\Common\bin\Debug\Common.pdb
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\Common\obj\Debug\Common.dll
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\Common\obj\Debug\Common.pdb
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\Common\bin\Debug\Common.dll
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\Common\bin\Debug\Common.pdb
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\Common\obj\Debug\ResolveAssemblyReference.cache
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\Common\obj\Debug\Common.dll
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\Common\obj\Debug\Common.pdb

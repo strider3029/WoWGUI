@@ -1,0 +1,11 @@
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowClient\bin\Debug\WowClient.exe.config
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowClient\bin\Debug\WowClient.exe
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowClient\bin\Debug\WowClient.pdb
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowClient\bin\Debug\Common.dll
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowClient\bin\Debug\WoWLogin.exe
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowClient\bin\Debug\Common.pdb
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowClient\bin\Debug\WoWLogin.pdb
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowClient\bin\Debug\en-us\WoWLogin.resources.dll
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowClient\obj\x86\Debug\WowClient.exe
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowClient\obj\x86\Debug\WowClient.pdb

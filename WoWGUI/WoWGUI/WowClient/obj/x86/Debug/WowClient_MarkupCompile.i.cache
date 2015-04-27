@@ -1,0 +1,20 @@
+﻿WowClient
+
+
+winexe
+C#
+.cs
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI\WoWGUI\WowClient\obj\x86\Debug\
+WowClient
+none
+false
+DEBUG;TRACE
+
+5-1778178090
+
+16-532805699
+15-1804697588
+GUI\FormAdminOptions.xaml;GUI\FormCreateAccount.xaml;GUI\FormCharacterSelect.xaml;GUI\FormCharCreation.xaml;GUI\FormLogin.xaml;
+
+False
+

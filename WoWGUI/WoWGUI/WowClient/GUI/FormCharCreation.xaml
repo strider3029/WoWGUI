@@ -1,0 +1,24 @@
+﻿<Window x:Class="WowClient.FormCharCreation"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Character Creation" Height="600" Width="800" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen">
+   <Window.Background>
+      <ImageBrush ImageSource="/WowClient;component/Resources/Backround_CharCreation.png" />
+   </Window.Background>
+   <Grid>
+      <Button Content="" Height="64" HorizontalAlignment="Left" Margin="33,333,0,0" Name="btnClassWarrior" VerticalAlignment="Top" Width="64" BorderThickness="0" Focusable="False" Click="btnClass_Click" FontWeight="SemiBold" />
+      <Button Content="" Height="64" HorizontalAlignment="Left" Margin="33,403,0,0" Name="btnClassMage" VerticalAlignment="Top" Width="64" BorderThickness="0" Focusable="False" Click="btnClass_Click" FontWeight="SemiBold" />
+      <Button Content="" Height="64" HorizontalAlignment="Left" Margin="103,333,0,0" Name="btnClassDruid" VerticalAlignment="Top" Width="64" BorderThickness="0" Focusable="False" Click="btnClass_Click" FontWeight="SemiBold" />
+      <Button Content="" Height="64" HorizontalAlignment="Left" Margin="103,403,0,0" Name="btnClassDeathKnight" VerticalAlignment="Top" Width="64" BorderThickness="0" Focusable="False" Click="btnClass_Click" FontWeight="SemiBold" />
+      <Button Content="" Height="64" HorizontalAlignment="Left" Margin="33,69,0,0" Name="btnRaceHuman" VerticalAlignment="Top" Width="64" BorderThickness="0" Click="btnRace_Click" Focusable="False" FontWeight="SemiBold" />
+      <Button Content="" Height="64" HorizontalAlignment="Left" Margin="103,69,0,0" Name="btnRaceOrc" VerticalAlignment="Top" Width="64" BorderThickness="0" Click="btnRace_Click" Focusable="False" FontWeight="SemiBold" />
+      <Button Content="" Height="64" HorizontalAlignment="Left" Margin="33,139,0,0" Name="btnRaceWorgen" VerticalAlignment="Top" Width="64" BorderThickness="0" Click="btnRace_Click" Focusable="False" FontWeight="SemiBold" />
+      <Button Content="" Height="64" HorizontalAlignment="Left" Margin="103,139,0,0" Name="btnRaceTauren" VerticalAlignment="Top" Width="64" BorderThickness="0" Click="btnRace_Click" Focusable="False" FontWeight="SemiBold" />
+      <Button Content="" Height="64" HorizontalAlignment="Left" Margin="33,209,0,0" Name="btnRaceGnome" VerticalAlignment="Top" Width="64" BorderThickness="0" Click="btnRace_Click" Focusable="False" FontWeight="SemiBold" />
+      <Button Content="" Height="64" HorizontalAlignment="Left" Margin="103,209,0,0" Name="btnRaceBloodElf" VerticalAlignment="Top" Width="64" BorderThickness="0" Click="btnRace_Click" Focusable="False" FontWeight="SemiBold" />
+      <TextBox HorizontalAlignment="Center" Margin="314,0,304,114" Name="tbCharName" Width="160" Height="24" VerticalAlignment="Bottom" TabIndex="0" Background="#83000000" Foreground="White" FontWeight="SemiBold" />
+      <Label Content="lblName" Height="24" HorizontalAlignment="Center" Margin="314,0,304,138" Name="lblName" VerticalAlignment="Bottom" Width="160" HorizontalContentAlignment="Center" Background="#00000000" Foreground="Gold" FontWeight="SemiBold" Padding="0,5" />
+      <Button Content="btnCancel" Margin="0,0,12,12" Name="btnCancel" Height="24" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="160" Click="btnCancel_Click" FontWeight="SemiBold" Background="#FFAD0000" BorderBrush="DarkGoldenrod" BorderThickness="5" Foreground="Gold" IsCancel="True" />
+      <Button Content="btnAccept" Height="24" HorizontalAlignment="Right" Margin="0,0,12,42" Name="btnAccept" VerticalAlignment="Bottom" Width="160" Click="btnAccept_Click" FontWeight="SemiBold" Background="#FFAD0000" BorderBrush="DarkGoldenrod" BorderThickness="5" Foreground="Gold" IsDefault="True" />
+   </Grid>
+</Window>

@@ -1,0 +1,8 @@
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowServiceHost\bin\Debug\WowServiceHost.exe
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowServiceHost\bin\Debug\WowLoginServiceLib.dll
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowServiceHost\bin\Debug\Common.dll
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowServiceHost\bin\Debug\WowLoginServiceLib.pdb
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowServiceHost\bin\Debug\Common.pdb
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowServiceHost\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowServiceHost\obj\x86\Debug\WowServiceHost.exe
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowServiceHost\obj\x86\Debug\WowServiceHost.pdb

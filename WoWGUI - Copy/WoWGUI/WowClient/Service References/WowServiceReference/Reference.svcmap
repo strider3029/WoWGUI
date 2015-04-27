@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="25696f49-f31d-4945-a4b1-af2575e3785a" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8000/WowLoginServiceLib/" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="item1.xsd" MetadataType="Schema" ID="6fd6a495-bcd3-4e05-b96e-2b777afd5a1f" SourceId="1" SourceUrl="http://localhost:8000/WowLoginServiceLib/?xsd=xsd1" />
+    <MetadataFile FileName="item.xsd" MetadataType="Schema" ID="a60a3b8c-84c3-4cd7-86c6-b45a435f2627" SourceId="1" SourceUrl="http://localhost:8000/WowLoginServiceLib/?xsd=xsd0" />
+    <MetadataFile FileName="item2.xsd" MetadataType="Schema" ID="07f2762c-70e3-4f17-8b91-e6e74de676df" SourceId="1" SourceUrl="http://localhost:8000/WowLoginServiceLib/?xsd=xsd2" />
+    <MetadataFile FileName="item.disco" MetadataType="Disco" ID="0d8dba9b-f92c-4984-ae29-7570c4859fe6" SourceId="1" SourceUrl="http://localhost:8000/WowLoginServiceLib/?disco" />
+    <MetadataFile FileName="WowService.wsdl" MetadataType="Wsdl" ID="7ce8673f-bff8-4901-b0e1-7492993d8304" SourceId="1" SourceUrl="http://localhost:8000/WowLoginServiceLib/?wsdl" />
+    <MetadataFile FileName="item.wsdl" MetadataType="Wsdl" ID="d68cc0f0-c8be-4084-bd54-d6d11394a4cf" SourceId="1" SourceUrl="http://localhost:8000/WowLoginServiceLib/?wsdl=wsdl0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

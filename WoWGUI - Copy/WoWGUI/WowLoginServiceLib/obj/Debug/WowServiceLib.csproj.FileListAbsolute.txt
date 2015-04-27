@@ -1,0 +1,18 @@
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowLoginServiceLib\bin\Debug\WowLoginServiceLib.dll.config
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowLoginServiceLib\bin\Debug\WowLoginServiceLib.dll
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowLoginServiceLib\bin\Debug\WowLoginServiceLib.pdb
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowLoginServiceLib\bin\Debug\Common.dll
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowLoginServiceLib\bin\Debug\Common.pdb
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowLoginServiceLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowLoginServiceLib\obj\Debug\WowLoginServiceLib.dll
+C:\Users\bgray\Desktop\Blizz\WoW\WoWLogin\WowLoginServiceLib\obj\Debug\WowLoginServiceLib.pdb
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowLoginServiceLib\bin\Debug\WowLoginServiceLib.dll.config
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowLoginServiceLib\bin\Debug\WowLoginServiceLib.dll
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowLoginServiceLib\bin\Debug\WowLoginServiceLib.pdb
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowLoginServiceLib\bin\Debug\Common.dll
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowLoginServiceLib\bin\Debug\WowDataLayer.dll
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowLoginServiceLib\bin\Debug\Common.pdb
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowLoginServiceLib\bin\Debug\WowDataLayer.pdb
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowLoginServiceLib\obj\Debug\ResolveAssemblyReference.cache
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowLoginServiceLib\obj\Debug\WowLoginServiceLib.dll
+F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowLoginServiceLib\obj\Debug\WowLoginServiceLib.pdb

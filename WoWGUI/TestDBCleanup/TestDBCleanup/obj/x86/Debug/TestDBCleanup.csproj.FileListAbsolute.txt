@@ -1,0 +1,9 @@
+C:\Users\bgray\Desktop\Blizz\TestDBCleanup\TestDBCleanup\bin\Debug\TestDBCleanup.exe
+C:\Users\bgray\Desktop\Blizz\TestDBCleanup\TestDBCleanup\bin\Debug\TestDBCleanup.pdb
+C:\Users\bgray\Desktop\Blizz\TestDBCleanup\TestDBCleanup\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\bgray\Desktop\Blizz\TestDBCleanup\TestDBCleanup\obj\x86\Debug\TestDBCleanup.exe
+C:\Users\bgray\Desktop\Blizz\TestDBCleanup\TestDBCleanup\obj\x86\Debug\TestDBCleanup.pdb
+C:\Users\bgray\Desktop\Blizz\New Solution\TestDBCleanup\TestDBCleanup\obj\x86\Debug\TestDBCleanup.exe
+C:\Users\bgray\Desktop\Blizz\New Solution\TestDBCleanup\TestDBCleanup\obj\x86\Debug\TestDBCleanup.pdb
+F:\Programming\Blizzard Test\WoWGUI\TestDBCleanup\TestDBCleanup\obj\x86\Debug\TestDBCleanup.exe
+F:\Programming\Blizzard Test\WoWGUI\TestDBCleanup\TestDBCleanup\obj\x86\Debug\TestDBCleanup.pdb

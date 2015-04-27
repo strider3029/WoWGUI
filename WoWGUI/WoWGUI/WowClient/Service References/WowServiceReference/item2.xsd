@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/Common" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/Common" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="PlayerData">
+    <xs:sequence>
+      <xs:element name="accountName" nillable="true" type="xs:string" />
+      <xs:element name="characters" nillable="true" type="tns:ArrayOfCharacter" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="PlayerData" nillable="true" type="tns:PlayerData" />
+  <xs:complexType name="ArrayOfCharacter">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Character" nillable="true" type="tns:Character" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfCharacter" nillable="true" type="tns:ArrayOfCharacter" />
+  <xs:complexType name="Character">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="CharClass" type="tns:CharClass" />
+      <xs:element minOccurs="0" name="Faction" type="tns:Faction" />
+      <xs:element minOccurs="0" name="IsActive" type="xs:boolean" />
+      <xs:element minOccurs="0" name="Level" type="xs:int" />
+      <xs:element minOccurs="0" name="Name" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Race" type="tns:Race" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Character" nillable="true" type="tns:Character" />
+  <xs:simpleType name="CharClass">
+    <xs:list>
+      <xs:simpleType>
+        <xs:restriction base="xs:string">
+          <xs:enumeration value="Warrior" />
+          <xs:enumeration value="Druid" />
+          <xs:enumeration value="DeathKnight" />
+          <xs:enumeration value="Mage" />
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:list>
+  </xs:simpleType>
+  <xs:element name="CharClass" nillable="true" type="tns:CharClass" />
+  <xs:simpleType name="Faction">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Alliance" />
+      <xs:enumeration value="Horde" />
+      <xs:enumeration value="Both" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="Faction" nillable="true" type="tns:Faction" />
+  <xs:simpleType name="Race">
+    <xs:list>
+      <xs:simpleType>
+        <xs:restriction base="xs:string">
+          <xs:enumeration value="Human" />
+          <xs:enumeration value="Gnome" />
+          <xs:enumeration value="Worgen" />
+          <xs:enumeration value="Orc" />
+          <xs:enumeration value="Tauren" />
+          <xs:enumeration value="BloodElf" />
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:list>
+  </xs:simpleType>
+  <xs:element name="Race" nillable="true" type="tns:Race" />
+</xs:schema>
