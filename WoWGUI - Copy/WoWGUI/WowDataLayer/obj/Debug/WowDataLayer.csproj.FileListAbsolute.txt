@@ -1,7 +1,0 @@
-F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowDataLayer\bin\Debug\WowDataLayer.dll
-F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowDataLayer\bin\Debug\WowDataLayer.pdb
-F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowDataLayer\bin\Debug\Common.dll
-F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowDataLayer\bin\Debug\Common.pdb
-F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowDataLayer\obj\Debug\ResolveAssemblyReference.cache
-F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowDataLayer\obj\Debug\WowDataLayer.dll
-F:\Programming\Blizzard Test\Bungie Version\WoWGUI - Copy\WoWGUI\WowDataLayer\obj\Debug\WowDataLayer.pdb
